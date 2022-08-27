@@ -1,0 +1,16 @@
+.vscode-projects-extension .section-title {
+  font-weight: bold;
+  padding: 4px 6px;
+}
+
+.vscode-projects-extension .scrollable-menu {
+  max-height: 252px;
+}
+
+.vscode-projects-extension .project-item {
+  padding: 6px 12px;
+}
+
+.vscode-projects-extension .error {
+  font-weight: bold;
+}
