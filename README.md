@@ -1,7 +1,7 @@
 <div align="center">
   <h1>GNOME Extension - Project Manager for Visual Studio Code</h1>
   <p><b>Easily open your Visual Studio Code projects from GNOME shell</b></p>
-  <a href="https://extensions.gnome.org">
+  <a href="https://extensions.gnome.org/extension/5289/project-manager-for-vscode/">
     <img src="https://img.shields.io/badge/Install%20from-extensions.gnome.org-4A86CF?style=for-the-badge&logo=Gnome&logoColor=white"/>
   </a>
 </div>
@@ -14,7 +14,7 @@ This extension simply allows you to open the projects from [VSCode](https://code
 
 ## Recommended
 
-Install from [GNOME Shell Extensions](https://extensions.gnome.org) website to get the latest version.
+Install from [GNOME Shell Extensions](https://extensions.gnome.org/extension/5289/project-manager-for-vscode/) website to get the latest version.
 
 ## Manual
 
