@@ -3,20 +3,20 @@
  *
  * Copyright (C) 2022 Amir Hossein Mafi <amir77mafi@gmail.com>
  *
- * This file is part of gnome-vscode-projects.
+ * This file is part of Project Manager for VSCode.
  *
- * gnome-vscode-projects is free software: you can redistribute it and/or modify
+ * Project Manager for VSCode is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by the
  * Free Software Foundation, either version 3 of the License,
  * or (at your option) any later version.
  *
- * gnome-vscode-projects is distributed in the hope that it will be useful, but
+ * Project Manager for VSCode is distributed in the hope that it will be useful, but
  * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
  * FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for
  * more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with gnome-vscode-projects. If not, see <http://www.gnu.org/licenses/>.
+ * along with Project Manager for VSCode. If not, see <http://www.gnu.org/licenses/>.
  *
  * SPDX-License-Identifier: GPL-3.0-or-later
  */

@@ -17,7 +17,9 @@ var ProjectsPanelMenuButton = GObject.registerClass(
       this.menu.actor.add_style_class_name('vscode-projects-extension');
 
       this._icon = new St.Icon({
-        gicon: IconUtils.getCustomIconPath('vscode-symbolic'),
+        gicon: IconUtils.getCustomIconPath(
+          'project-manager-for-vscode-symbolic'
+        ),
         style_class: 'system-status-icon',
       });
       this.add_child(this._icon);
