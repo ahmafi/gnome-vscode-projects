@@ -7,8 +7,9 @@ SRC_FILES=$(shell find $(SRC))
 
 pack: $(PACKAGE)
 
-$(PACKAGE): $(SRC_FILES)
+$(PACKAGE): $(SRC_FILES) README.md LICENSE
 	@cd $(SRC); zip -r ../$(PACKAGE) .
+	@zip $(PACKAGE) README.md LICENSE
 
 install: pack
 	@gnome-extensions install --force ./$(PACKAGE)
