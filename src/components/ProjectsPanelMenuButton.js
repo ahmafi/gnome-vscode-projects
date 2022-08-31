@@ -47,7 +47,7 @@ var ProjectsPanelMenuButton = GObject.registerClass(
 
     destroy() {
       if (this._clickedId) {
-        disconnect(this._clickedId);
+        this.disconnect(this._clickedId);
         this._clickedId = null;
       }
       super.destroy();
