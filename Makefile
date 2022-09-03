@@ -8,6 +8,7 @@ SRC_FILES=$(shell find $(SRC))
 pack: $(PACKAGE)
 
 $(PACKAGE): $(SRC_FILES) README.md LICENSE
+	@rm -f $(PACKAGE)
 	@cd $(SRC); zip -r ../$(PACKAGE) .
 	@zip $(PACKAGE) README.md LICENSE
 
